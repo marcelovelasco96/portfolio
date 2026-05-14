@@ -149,7 +149,7 @@
                 </p>
 
                 <h2 class="text-4xl font-bold">
-                    Experiencia profesional
+                    Trayectoria y proyectos
                 </h2>
             </div>
 
