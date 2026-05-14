@@ -340,7 +340,7 @@
         </div>
 
         <div class="border-t border-slate-800 mt-16 pt-8 text-sm text-slate-500">
-            © {{ now()->year }} Marcelo Velasco. Portfolio personal.
+            © {{ now()->year }} Marcelo Velasco. Software Developer.
         </div>
 
     </div>
