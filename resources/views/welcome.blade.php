@@ -4,25 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="/favicon.png">
     <title>Marcelo Velasco | Sistemas y Soluciones Digitales</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
 <body class="bg-slate-950 text-slate-100">
     <main class="min-h-screen flex items-center justify-center px-6">
-        <section class="max-w-4xl text-center">
-            <p class="text-blue-400 font-semibold mb-4">Laravel · PHP · SQL Server · APIs</p>
+        <section class="max-w-5xl">
+            <p class="text-blue-400 font-semibold mb-6 tracking-[0.2em] uppercase text-sm">Laravel · PHP · SQL Server ·
+                APIs</p>
 
-            <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-6">
+            <h1 class="text-5xl md:text-7xl font-bold tracking-tight mb-8 max-w-4xl leading-tight">
                 Desarrollo sistemas web y soluciones digitales para procesos reales.
             </h1>
 
-            <p class="text-slate-300 text-lg md:text-xl max-w-2xl mx-auto mb-8">
+            <p class="text-slate-300 text-xl leading-relaxed max-w-3xl mb-10">
                 Soy Marcelo Velasco, Ingeniero de Sistemas enfocado en Laravel, backend,
                 bases de datos e integración de plataformas.
             </p>
 
-            <div class="flex flex-col sm:flex-row gap-4 justify-center">
+            <div class="flex flex-col sm:flex-row gap-4">
                 <a href="https://github.com/marcelovelasco96" target="_blank"
                     class="rounded-xl bg-blue-500 px-6 py-3 font-semibold text-white hover:bg-blue-600">
                     Ver GitHub
