@@ -250,7 +250,7 @@
             <div class="grid gap-8 md:grid-cols-2">
 
                 <article class="rounded-3xl border border-slate-800 bg-slate-950 overflow-hidden">
-                    <img src="https://raw.githubusercontent.com/marcelovelasco96/support-ticket-system/main/dashboard.png"
+                    <img src="https://raw.githubusercontent.com/marcelovelasco96/support-ticket-system/main/screenshots/dashboard.png"
                         alt="Support Ticket System" class="w-full h-64 object-cover">
 
                     <div class="p-8">
@@ -271,7 +271,7 @@
                 </article>
 
                 <article class="rounded-3xl border border-slate-800 bg-slate-950 overflow-hidden">
-                    <img src="https://raw.githubusercontent.com/marcelovelasco96/booklify-barberia/main/reservas.png"
+                    <img src="https://raw.githubusercontent.com/marcelovelasco96/booklify-barberia/main/screenshots/reservas.png"
                         alt="Booklify Barbería" class="w-full h-64 object-cover">
 
                     <div class="p-8">
@@ -290,7 +290,6 @@
                         </a>
                     </div>
                 </article>
-
             </div>
         </div>
     </section>
